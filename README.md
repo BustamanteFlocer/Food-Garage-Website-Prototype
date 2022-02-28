@@ -5,3 +5,4 @@ This project is a reference only for the recruiters when I apply for Wordpress D
 
 # Click the Google Drive Link To See the Demo Video of the Food Garage Website
 https://drive.google.com/file/d/1CrJDEe0UdXvfcabdHeNcKvW08-4WqEOU/view?usp=sharing
+I only provided demo video for now but I will host it in a server soon when this project is complete.
